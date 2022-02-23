@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments answer to the armies proposals, or, A true extract of the iurnalls in Parliament so far as they relate unto the petition and proposals of the Army and present distempers</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38035</idno>
+            <idno type="STC">Wing E2128</idno>
+            <idno type="STC">ESTC R29762</idno>
+            <idno type="EEBO-CITATION">11204136</idno>
+            <idno type="OCLC">ocm 11204136</idno>
+            <idno type="VID">46733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38035)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46733)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments answer to the armies proposals, or, A true extract of the iurnalls in Parliament so far as they relate unto the petition and proposals of the Army and present distempers</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Redmayne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>England and Wales. --  Army.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46733:1"/>
+            <pb facs="tcp:46733:1" rendition="simple:additions"/>
+            <p>THE PARLIAMENTS ANSWER, To the ARMIES PROPOSALS,</p>
+            <p>OR, A true extract of the Iurnalls in <hi>Parliament,</hi> ſo far as they relate unto the Petition and Propoſals of the Army, and preſent diſtempers.</p>
+            <p>LONDON, Printed by <hi>John Redmayne,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46733:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:46733:2"/>
+            <head>The <hi>Parliaments</hi> Anſwer, to the <hi>Armies</hi> Propoſals.</head>
+            <div type="day">
+               <head>Thurſday <hi>22.</hi> of September.</head>
+               <p>
+                  <seg rend="decorInit">L</seg>Ieutenant Generall <hi>Fleetwood</hi> having acquainted the <hi>Parliament</hi> with the effect of an Addreſſe intended to be made to them by ſome of the Army: They or<g ref="char:EOLhyphen"/>dered that Collonell <hi>Aſhfield,</hi> Collonell <hi>Cobbet,</hi> and Lieutenant Collonell <hi>Duckenfield</hi> be, and are here<g ref="char:EOLhyphen"/>by required forthwith this afternoon to bring to the <hi>Parliament</hi> the Originall Paper or addreſſe in their or one of their hands, intended by ſome of the Army to be preſented to the <hi>Parliament,</hi> and that the Coppy thereof in the hands of the Lieutenant Generall <hi>Fleetwood</hi> be alſo brought to the Houſe this afternoon; And thereupon Ordered that Lieutenant Generall <hi>Fleetwood</hi> do give the ſaid Collonell <hi>Aſhfield,</hi> Collonell <hi>Cobbet,</hi> and Lieutenant Collonell <hi>Duckenfield</hi> no<g ref="char:EOLhyphen"/>tice of the ſaid Order.</p>
+            </div>
+            <div type="day">
+               <head>
+                  <hi>Thurſday</hi> 22. <hi>September</hi> Afternoon.</head>
+               <p>The Houſe received in purſuance of their Order made in the forenoon, A Letter ſigned by many perſons of the Army, and directed to Collo<g ref="char:EOLhyphen"/>nell <hi>Aſhfield,</hi> Collonell <hi>Cobbet,</hi> and Lieutenant Collonell <hi>Duckenfield,</hi> by whoſe hands, or any one or two of them, they deſired the encloſed Pa<g ref="char:EOLhyphen"/>per with the Letter might be preſented to the Lord <hi>Fleetwood,</hi> and after<g ref="char:EOLhyphen"/>wards unto the generall Councell of Officers, which encloſed Paper was entituled, <hi>To the Supream Authority of theſe Nations:</hi> The <hi>Par<g ref="char:EOLhyphen"/>liament</hi> of the Common-wealth of <hi>England,</hi> The humble <hi>Petition</hi> and <hi>Propoſals</hi> of the Officers under the command of the right Honourable the Lord <hi>Lambert</hi> in the late Northern Expedition: after a debate there<g ref="char:EOLhyphen"/>upon untill 7 of the clock that Evening; They ordered, that the fur<g ref="char:EOLhyphen"/>ther debate hereof be adjourned untill to morrow morning, and that it be the firſt buſineſſe nothing to Intervene.</p>
+            </div>
+            <div type="day">
+               <pb n="2" facs="tcp:46733:3"/>
+               <head>Friday <hi>23.</hi> September.</head>
+               <p>The Houſe according to former Order reſumed the debate upon the <hi>Petition</hi> and <hi>Propoſals,</hi> yeſterday adjourned: And Reſolved, <hi>That this Houſe doth declare, that to have any more generall Officers in the Army then are already ſetled by the</hi> Parliament, <hi>is needleſſe, chargeable, and dangerous to the Common-wealth.</hi>
+               </p>
+               <p>Ordered, that Lieutenant Generall <hi>Fleetwood</hi> do communicate this Vote unto the Officers of the Army, which being accordingly preſented, the officers had ſeverall meetings, and at laſt concluded upon a Petition and Repreſentation. In the interim, the Houſe paſſed the following Reſolves, unto which they do <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er in their anſwer to the ſaid Propoſals.</p>
+            </div>
+            <div type="day">
+               <head>Tueſday <hi>4.</hi> Oct<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ber</head>
+               <p>Reſolved, that the Arrears due unto the Officers and Souldiers of the Army, and alſo of the Militia Troops ſhall be paid out of the Moyety of ſuch monies as ſhall be raiſed by the ſale or compoſition of the Delin<g ref="char:EOLhyphen"/>quents ſequeſtred, and to be ſequeſtred upon the late Inſurrection, and out of one Moyetie of the money to be raiſed by the ſale of Forreſts and Chaſes, excepting new Forreſt, and the Forreſt of Dean, and excepting ſuch timber and trees as ſhall be thought fit to be reſerved and made uſe of for the ſervice of the Common-wealth And that the other moyety of the money to be raiſed by the ſaid Delinquents Eſtates, ſhall goe to the uſe of the Navie: And that the other moyetie of the Fotreſts, ex<g ref="char:EOLhyphen"/>cept as aforeſaid ſhall go to the payment and ſatisfaction of the debts due upon the Publick-Faith, and that the beſt way and means be ſpee<g ref="char:EOLhyphen"/>dily taken for rendering this Vote effectuall.</p>
+               <div type="part">
+                  <head>
+                     <hi>The following Reſolves concerning the maimed ſouldiers, and orphans which paſſed the</hi> 1 September. <hi>untò which thoſe which paſſed the</hi> 5. <hi>of</hi> October <hi>have relation.</hi>
+                  </head>
+                  <p>Reſolved, that two moneths pay be forthwith provided and paid un<g ref="char:EOLhyphen"/>to the maimed ſouldiers and widows at the <hi>Savoy,</hi> and <hi>Ely</hi> houſe, and that the Council of State do ſee that one fortnights pay be paid accord<g ref="char:EOLhyphen"/>ingly: and that the Committe of Inſpections do conſider how the reſidue may be forthwith paid.</p>
+                  <p>Ordered, that the Truſtees and Contractors at <hi>Worceſter</hi> houſe doe
+<pb n="3" facs="tcp:46733:3"/>conſult with the Commiſſioners for maimed ſouldiers, who are ſitting to be continued, and how they are to be provided for. Ordered that the ſaid Truſtees be enjoyned to give an account hereof to the houſe before the 19. of <hi>September</hi> 1659.</p>
+                  <p>Reſolved, that no one be Penſioners who have married ſecond huſ<g ref="char:EOLhyphen"/>bands, ſince the death of the firſt, who were wounded or ſlain in the ſervice of the <hi>Parliament,</hi> and that none be continued Penſioners, but ſuch as are disabled from working by their wounds in the ſervice of the Common wealth.</p>
+                  <p>Orderd, that the childre of maimed ſouldiers as are fit, ſhall be put Apprentiſes.</p>
+                  <p>Reſolved, that ſuch widows of ſouldiers as have been ſlain in the ſervice of the <hi>Parliament,</hi> as are able to work and have no children, ſhall be continued no longer as Penſioners.</p>
+               </div>
+            </div>
+            <div type="day">
+               <head>Wedneſday. <hi>5.</hi> October</head>
+               <p>Upon report from the Truſtees at <hi>Worceſter</hi> houſe touching the maim<g ref="char:EOLhyphen"/>ed ſouldiers. <hi>&amp;c.</hi>
+               </p>
+               <p>Reſolved, that the power of the ſaid Truſtees in Reference to the maymed Souldiers, <hi>&amp;c.</hi> be, and is hereby continued for three moneths longer, and that it be referred to Lieutenant Generall <hi>Fleet<g ref="char:EOLhyphen"/>wood</hi> to confer with the ſaid Truſtees and ſuch others as he ſhall think fit, and to take care that ſuch of the maimed ſouldiers, as the ſaid Truſtees ſhall from time to time nominate, be diſpoſed in Garriſons for eaſe of the Publick charge of the Common-wealth.</p>
+               <p>Reſolved, that the Truſtees at <hi>Worceſter</hi> houſe have power to diſ<g ref="char:EOLhyphen"/>poſe of ſuch others of the maimed ſouldiers, at the <hi>Savoy</hi> and <hi>Ely</hi> houſe (as are not fit to be placed in Garriſons) in ſuch other Hoſpitalls of this Common-wealth, (whereby they may be comfortably provided for) as they ſhall think fitteſt, for the further eaſe of the publick charge: And that they confer with the Governours of the Hoſpitall under the diſpoſe of the Corporation for the poore, about the placing and ſettl ng of the Orphans in the <hi>Savoy</hi> and <hi>Ely</hi> houſe, and take care for the ſettling of them accordingly.</p>
+               <p>Reſolved, that ſuch monies as come next in upon diſcovery to the Committee for Inſpections, ſhall be diſpoſed of towards the payment of the 6. weeks pay to be ordered to the maimed ſouldiers and widows at the <hi>Savoy</hi> and <hi>Ely</hi> houſe.</p>
+               <pb n="4" facs="tcp:46733:4"/>
+               <p>The Houſe being informed that ſome Officers of the Army were at the doore, they were called in, and Major General <hi>Diſhrow</hi> in the name of the reſt, ſaid as followeth. Mr. Speaker I am ordered by the general Councel of the Army, with the reſt of theſe Gentlemen to wait upon you, to preſent unto you there humble Repreſentation and Petition; and they humbly deſire you would accept it, as that which proceeds from the hearts of thoſe who deſire nothing more then that the Lord would ſtrengthen your hearts, in carrying on that good work of ſetling theſe Nations, upon the foundation of a free Commonwealth, where by the Religious and Civil Liberties of the good people thereof may be preſerved and ſecured: they being withdrawn the Petition was read, which fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="petition">
+                           <head>The humble Repreſentation and Petition of the Officers of the Army, to the Parliament of the Common wealth of <hi>England.</hi> Preſented to them <hi>Wedneſday the 5th. of October, 1659.</hi> by Major General <hi>Dis<g ref="char:EOLhyphen"/>brow:</hi> together with the Parliaments Anſwer thereunto.</head>
+                           <opener>Sheweth,</opener>
+                           <p>THat having had by Your order ſome late Votes of Parliament communicated to us by Lieutenant General <hi>Fleetwood,</hi> our Com<g ref="char:EOLhyphen"/>mander in chief, occaſioned by a Debate in Parliament, upon the Peti<g ref="char:EOLhyphen"/>tion and Propoſals of the Officers, under the Command of the Lord <hi>Lambert</hi> in the late Northern expedition; We have inquired diligently into our hearts and wayes, with reference thereunto; and finding nothing amongſt us but faithfulneſs and integrity to the Parliament and this Commonwealth; we cannot but be ſenſible that there hath not wanted ſome perſons, who have endeavoured to beget miſ-underſtanding be<g ref="char:EOLhyphen"/>tween the Parliament and Army: and to that end have preſented our Actions and Intentions ſo, as it is taken for granted there hath been irre<g ref="char:EOLhyphen"/>gularity amongſt us, at which we fear you have taken offence. Whereas we are perſwaded, that if there had not been an anticipation, it would have appeared to all unprejudiced Spirits, that neither we, (who for the generality of us, were utterly ignorant of that whereat the offence is taken) nor our faithful brethren of the Northern Brigade, who ſigned the ſaid Petition and Propoſals, did deſign or intend any thing tending to the interruption of the Parliament, the prejudice of the peace of this Commonwealth, or any other by, or ſiniſter reſpect, not becoming the
+<pb n="5" facs="tcp:46733:4"/>Truſt repoſed in us. Wherefore being ſenſible of the evil Uſe, that perſons abroad may make from the leaſt apprehenſions of Difference between the Parliament and Army, and that we may as much as in us lie, re<g ref="char:EOLhyphen"/>move all occaſions of Surmiſe, juſtifie our own innocency before you, and fruſtrate the expectations of any, who by blowing up the Coals of Diſ<g ref="char:EOLhyphen"/>ſention, hope to warm themſelves thereby.</p>
+                           <p>We have thought it our duty to preſent our naked thoughts to you, and hope you will find ſo much of integrity and approved faithfulneſs in us, for the welfare of this Commonwealth, as may continue a firm confidence of us, and engage your zeal againſt all ſuch as ſhall go about to reproach your faithful Army, or any Member thereof for the future: eſpecially conſidering that the Peace of theſe Nations, next under God, depends ſo much upon a Cordial and Affectionate Agreement and Uni<g ref="char:EOLhyphen"/>on of the Parliament and Army, and an un-interrupted good under<g ref="char:EOLhyphen"/>ſtanding of each other, and therefore we do humbly and plainly declare.</p>
+                           <p n="1">1. That notwithſtanding what any perſons may ſuggeſt or ſay to the contrary, we are not for, but againſt the ſetting up of any ſingle Per<g ref="char:EOLhyphen"/>ſon whatſoever in Supream Authority; and for a demonſtration hereof, we may appeal to your own judgements upon our late Actings: where<g ref="char:EOLhyphen"/>in, ſince our Declaration of the ſixth of <hi>May</hi> laſt, we have withal in<g ref="char:EOLhyphen"/>duſtry and faithfulneſs, endeavoured to render our ſelves ſerviceable to you and this Commonwealth, and have chearfully obſerved your com<g ref="char:EOLhyphen"/>mands; ſome of us with our lives in our hands in your late ſervice, where<g ref="char:EOLhyphen"/>into our great encouragement the Lord hath once more appeared to own you and your Army, and the good old Cauſe for which we hàve con<g ref="char:EOLhyphen"/>tended. And at the late return of this Parliament to the diſcharge of their remaining truſt, We did with ſimplicity and plainneſs in our Hum<g ref="char:EOLhyphen"/>ble Petition and Addreſs preſented to you, manifeſt our hearts and de<g ref="char:EOLhyphen"/>ſires, and that with much unanimity and fulneſs of conſent, which we ap<g ref="char:EOLhyphen"/>prehended was well accepted by you.</p>
+                           <p n="2">2. That we have not ſince changed our principles, (leading to a well-regulated Commonwealth, wherein the Liberties of the people thereof, both ſpiritual and civil, may be fully ſecured, and perſons of known in<g ref="char:EOLhyphen"/>tegrity, piety and ability, employed in places of truſt and concernment) but reſolve by the aſſiſtance of God to remain conſtant to them. And make it our humble prayer to God, that he would incline your hearts effectually to proſecute the ſame; and make you inſtrumental in bringing forth ſuch a foundation of Government, whereby all the good people of
+<pb n="6" facs="tcp:46733:5"/>theſe Nations may rationally expect that ſuch Liberties and Rights ſhall be p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>eſerved to them and their poſterities. And we can truly ſay that it is in our hearts earneſtly, to deſire that God would crown you with the h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nour of making theſe Nations happy by ſuch a ſettlement, as may not be liable at every change of Governors to have the peace thereof diſturbed by introducing new Governments.</p>
+                           <p n="3">3. Whereas a Petition and Propoſals were lately drawn up by the Officers of the Brigade that (under the command of Major Generall <hi>Lambert</hi>) hazarded themſelves in your ſervice with good ſucceſſe, whereby through the bleſſing of God upon them and others of your faithfull friends and ſervants, the peace of this Common-wealth is ſtill continued; And the ſaid Petition was ſent up to ſome Officers here, to be preſented to the Lord <hi>Fleetwood,</hi> which hath been by ſome interpre<g ref="char:EOLhyphen"/>ted to evil and ſiniſter ends, and from thence ſuggeſtions derived, as if there were intentions to violate the Parliament, to ſet up a ſingle perſon or another General. In order thereunto; We do ſincerely profeſs (what ever the deſigns of any perſons may be to promote ſuch cauſeleſſe jea<g ref="char:EOLhyphen"/>louſies) we have had no other then faithfulneſſe and candor in our hearts and actions towards the Parliament, nor do we apprehend (with ſub<g ref="char:EOLhyphen"/>miſſion we ſpeak it) any reaſon or cauſe of offence to be conceived a<g ref="char:EOLhyphen"/>gainſt your faithfull ſervants, vvho lately gave ſo ample proof of their fidelity and courage.</p>
+                           <p n="4">4. We cannot but eſteem our ſelves unhappy to have been ſo miſre<g ref="char:EOLhyphen"/>preſented to the Parliament, as ſhould occaſion ſuch a publique admo<g ref="char:EOLhyphen"/>nition upon record; And conſidering what evil uſe may be made of theſe things by the publique Enemy, and to the end they may be diſappointed of their hopes, and all ſuch perſons diſcouraged as ſhall goe about for the future, to promote jealouſies, or by miſinformation to beget diviſions be<g ref="char:EOLhyphen"/>twixt the <hi>Parliament</hi> and their faithful ſervants the Army, and that a good underſtanding may be preſerved between them, VVe hum<g ref="char:EOLhyphen"/>bly pray,</p>
+                           <p n="1">I. That the Officers of the Army, and particularly thoſe who have reaſon to bear the markes of your favour for their faithfulneſſe in the late Northern Expedition, may ſtand right in your opinion, and have your countenance.</p>
+                           <p n="2">II. That whatſoever perſon or perſons ſhall for the future ground<g ref="char:EOLhyphen"/>leſly and cauſeleſly inform the Houſe againſt your Servants, thereby cre<g ref="char:EOLhyphen"/>ating jealouſies, and caſting ſcandalous imputations upon them, may be
+<pb n="7" facs="tcp:46733:5"/>brought to examination, juſtice, and condign puniſhment.</p>
+                           <p n="3">III. That it being an undoubted right of the people to have a Liberty in a peaceable and ſubmiſſive way, to petition the Supreme Authority, which liberty hath been by your ſelves aſſerted, allowed, and approved of, we cannot but alſo aſſert the ſaid liberty, and humbly conceive that your faithful Servants of the Army have no way forfeited their Rights as Free men: and that therefore they hope it will be no offence for them to ſubmit their humble deſires to the <hi>Parliament.</hi> And we hope and pray you will not diſcourage them for ſo doing.</p>
+                           <p n="4">IV. That you would be pleaſed to take into your ſerious conſideration the neceſſitous condition of the poor Souldiers of your Armies and that all poſſible care may be taken for their timely ſupply, their wants being ſuch as earneſtly call for it; and that ſome ſpeedy and effectual courſe may be taken to provide for the maimed ſouldiers and he poor widows and orphans, of ſuch as have been ſlain in your ſervice, that the bleſſing of the deſolate may be upon you.</p>
+                           <p n="5">V. That ſuch who have freely offered themſelves in the ſeveral Counties and cities of theſe Nations, to own and ſtand by you and your Cauſe in the late Inſurrection, with the hazard of all which is dear unto them, may have your encouragement, and be imployed in places of truſt and command.</p>
+                           <p n="6">VI. That (it being a thing granted by all, that without due execution of Martial Diſcipline, the peace, union, and good government of an Army cannot be preſerved) the diſcipline of the Army may be preſerved in<g ref="char:EOLhyphen"/>violable, and in particular, that no Officer, or Souldier of your Ar<g ref="char:EOLhyphen"/>my may be caſhierd or diſmiſſed from their places, without a due pro<g ref="char:EOLhyphen"/>ceeding at a Court-Martial, or by his own conſent, except in caſes of Re<g ref="char:EOLhyphen"/>ducement, or Disbandings.</p>
+                           <p n="7">VII. That it being judged neceſſarie by the Parliament for the keep<g ref="char:EOLhyphen"/>ing of the Army under ſuch a conduct as may render the ſame ſervice<g ref="char:EOLhyphen"/>able to the Common-wealth, to appoint a Committee of Nomination, for the propoſing of Officers to the Parliament for their approbation, we humbly pray, that no Officers may be brought into the Army but ſuch as ſhall firſt come under the conſideration of the ſaid Committee, and be by them preſented.</p>
+                           <p n="8">VIII. The Office of the Commander in chief of the Army being of ſo great concernment to the peace of this Common-wealth, and his Commiſſion at preſent (as we conceive) expiring within a few moneths,
+<pb n="8" facs="tcp:46733:6"/>we humbly pray, that the conſideration of that matter may come before you, and ſome ſuch effectual courſe taken therein, as may prevent our fears, and the hazard of leaving the Army to confuſion.</p>
+                           <p n="9">IX. And that you would retain a good opinion of your Army, and againſt all diſcouragements whatſoever, proceed in the carrying on of that good work intruſted in your hands for the glory of God, and ad<g ref="char:EOLhyphen"/>vantage of theſe Nations. In the proſecution whereof through the help of our God we ſhall be found (notwithſtanding all endeavours to the contrary) faithfull to you and this Commonwealth.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>After which the Officers being called in again, Mr. Speaker by order of the Houſe gave them this anſwer: Gentlemen, the Parliament have read your Repreſentation and Petition, and taking notice of the good expreſſions of your affections, and faithfulneſs to this Parliament and Commonwealth, which are there in, have commanded me to return you the thanks of the Houſe, and in their names I give you thanks according<g ref="char:EOLhyphen"/>ly: I am likewiſe commanded to let you know that the Parliament have already taken into conſideration the relief of the poor Widows, Orphans and maimed Souldiers, to whom penſions have been formerly allowed, and have alſo ſettled away for ſatisfaction of the Arrears due to the Offi<g ref="char:EOLhyphen"/>cers and Souldiers, and ſhall endeavour to bring the ſame to ſpeedy effect, the other matters of your Petition are appointed to be taken into conſideration on Saturday next.</p>
+            </div>
+            <div type="day">
+               <head>Munday <hi>10.</hi> of October.</head>
+               <p>This day the Houſe took into conſideration the Humble Repreſenta<g ref="char:EOLhyphen"/>tion and Petition of the Officers of the Army, and Reſolved, That this Houſe do now proceed in the particular Propoſals of the Humble Peti<g ref="char:EOLhyphen"/>tion and Repreſentation of the Officers of the Army, as followeth:</p>
+               <p n="1">1. <hi>Propoſal was read as followeth:</hi>
+               </p>
+               <p>THat the Officers of the Army, and particularly thoſe who have rea<g ref="char:EOLhyphen"/>ſon to bear the marks of your favour, for their faithfulneſs in the late Northern Expedition, may ſtand right in your opinion, and have your Countenance.</p>
+               <p>Reſolved, That this be the anſwer to the firſt Propoſal: That the Officers of the Army have received, and ſhall from time to time receive
+<pb n="9" facs="tcp:46733:6"/>marks of the favour of this Parliament, and countenance anſwerable to their merit and faithfulneſs.</p>
+            </div>
+            <div type="day">
+               <head>Munday in the afternoon.</head>
+               <p n="2">2. <hi>Propoſal was read as followeth:</hi>
+               </p>
+               <p>THat whatſoever perſon or perſons ſhall for the future groundleſly, and cauſleſly inform the Houſe againſt your Servants, thereby crea<g ref="char:EOLhyphen"/>ting jealouſies, and caſting ſcandalous impucations upon them, may be brought to examination, juſtice, and condign puniſhment.</p>
+               <p>Reſolved, That this be the Anſwer to the ſecond Propoſal: That it is the duty of all perſons, eſpecially of the Members of Parliament, to inform the Houſe of any thing, which in their apprehenſion may concern the Publick ſafety; And it is the undoubted right of the Parliament to receive, and debate thoſe informations, and to reſolve what they think fit thereupon; Ordered that a Committee ſit to morrow at ſeven of the clock, upon the 3d. Propoſal.</p>
+            </div>
+            <div type="day">
+               <head>Tueſday <hi>11.</hi> October.</head>
+               <p n="3">3. <hi>Propoſal.</hi>
+               </p>
+               <p>THis day the Committee appointed to prepare an anſwer to the third Propoſal, made their report to the Houſe, which was read: That it being an undoubted Right of the people, to have a Liberty in a peace<g ref="char:EOLhyphen"/>able and ſubmiſſive way, to Petition the Supream Authority, which Li<g ref="char:EOLhyphen"/>berty have been by your ſelves aſſerted, allowed, and approved of, we cannot but alſo aſſert the ſaid Liberty, and humbly conceive that your faithful Servants of the Army have no way forfeited their rights as free men: And that therefore they hope it will be no offence for them to ſub<g ref="char:EOLhyphen"/>mit their humble deſires to the Parliament, and we hope and pray you will not diſcourage them for ſo doing.</p>
+               <p>Reſolved, That this be the Anſwer to the third Propoſal: The Parlia<g ref="char:EOLhyphen"/>ment declareth, that every Member of the Army as Freemen of <hi>England,</hi> have right of Petitioning the Parliament: But with all thinks fit to let them know, that the Petitioners ought to be very careful, both in the manner, and in the matter which they deſire: That the way of Promo<g ref="char:EOLhyphen"/>ting and preſenting the ſame may be peaceable, and the things Petitioned for, not tending to the diſturbance of the Commonwealth, nor to the diſ<g ref="char:EOLhyphen"/>honour
+<pb n="10" facs="tcp:46733:7"/>of the Parliament; And that it is the duty of Petitioners to ſub<g ref="char:EOLhyphen"/>mit their deſires to the Parliament, and acquieſs in the judgment thereof.</p>
+            </div>
+            <div type="day">
+               <head>Tueſday in the afternoon.</head>
+               <p n="4">4. <hi>Propoſal was read as followeth:</hi>
+               </p>
+               <p>THat you would be pleaſed to take into your ſerious conſideration, the neceſſitous condition of the poor Souldiers of your Armies, that all poſ<g ref="char:EOLhyphen"/>ſible care may be taken for their timely ſupply, their wants being ſuch as earneſtly call for it: And that ſome ſpeedy and effectual courſe may be taken to provide for the maimed Souldiers, and the poor Widows and Orphans, of ſuch as have been ſlain in your ſervice, that the bleſſing of the deſolate may be upon you.</p>
+               <p>Reſolved, That two months pay be forthwith paid to the Officers and Souldiers of the Army in <hi>England,</hi> out of the ſix months Aſſeſs<g ref="char:EOLhyphen"/>ment of 35000 l. p. month, now due, and that the Councel of State do give order that the ſame be paid accordingly: Reſolved, that two months pay be alſo forthwith paid to the Officers and Souldiers, in <hi>Scotland</hi> and <hi>Ireland;</hi> and that the Councel of State do give order for the Payment thereof accordingly:</p>
+               <p>Ordered, That the former Votes for making proviſions for Officers and Souldiers, and wounded and maimed Souldiers, be alſo part of the Anſwer to this fourth Propoſal:</p>
+               <p>Ordered, That the Councel of State do take care that the moneys formerly ordered to be paid, to the uſe of the wounded and maimed Souldiers, Widows and Orphans at Ely-houſe and the Savoy, be forth<g ref="char:EOLhyphen"/>with paid unto the old Officers there, and that they pay it according to the regelation made by the Truſtees and Contractors at Worceſter<g ref="char:EOLhyphen"/>houſe.</p>
+               <p>Ordered, that it be referred to a Committee to bring in a Bill for ſa<g ref="char:EOLhyphen"/>ving, to ſuch Apprentiſes as have ſerved the Parliament in the late War, their time, and to compel their Maſters to grant them their Freedome, as if they had been in their Maſters ſervice, during the time they were in the Parliaments ſervice.</p>
+               <p n="5">5. <hi>Propoſal was read as followeth:</hi>
+               </p>
+               <p>THat ſuch who have freely offered themſelves in the ſeveral Counties and Cities of theſe Nations, to own and ſtand by you and your
+<pb n="11" facs="tcp:46733:7"/>cauſe in the late inſurrection, with the hazard of all which is dear unto them, may have your encouragement, and be imployed in places of truſt and command.</p>
+               <p>Reſolved, That this be the Anſwer to the fifth Propoſal: That ſuch perſons as have been faithful &amp; active for the Parliament in the late Inſur<g ref="char:EOLhyphen"/>rection, the Parliament will take care to give them all due encourage<g ref="char:EOLhyphen"/>ment as occaſion ſhall be offered.</p>
+               <p>Ordered, That this debate be adjourned until to morrow morning the firſt buſineſs, nothing to entervene, the Houſe alſo paſſed the Act againſt raiſing of moneys upon the People without their conſent in Par<g ref="char:EOLhyphen"/>liament, which is as followeth:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="act">
+                           <head>An Act againſt the raiſing of Moneys upon the People, without their conſent in Parliament.</head>
+                           <p>BE it Enacted by this preſent Parliament, and by the Authority thereof, and it is hereby Enacted, That all Orders, Ordinances and Acts made by any ſingle Perſon and his council, or by both or either of them, or otherwiſe, or by any Aſſembly or Convention, pre<g ref="char:EOLhyphen"/>tending to have Authority of Parliament, from and after the Nine<g ref="char:EOLhyphen"/>teenth day of <hi>April, 1653.</hi> and before the ſeventh of <hi>May, 1659.</hi> and which have not been or ſhall not be enacted, allowed, confirmed by this preſent Parliament, be and are hereby declared, deemed, taken and adjudged to be of no force or effect, from and after the ſaid ſeventh of <hi>May, 1659.</hi>
+                           </p>
+                           <p>And be it further Enacted, That no perſon or perſons ſhall after the eleventh of <hi>October, 1659.</hi> Aſſeſs, Levy, Collect, Gather or receive any Cuſtome, Impoſt, Exciſe, Aſſeſſement, Contribution, Tax, Tallage, or any ſum or ſums of Money, or other Impoſition whatſoever upon the people of this Common-Wealth, without their conſent in Par<g ref="char:EOLhyphen"/>liament, or as by Law might have been done before the third of <hi>November, 1640.</hi>
+                           </p>
+                           <p>And be it further Enacted and Declared, that every perſon offend<g ref="char:EOLhyphen"/>ing contrary to this Act, shall be and is hereby adjudged to be guilty of high Treaſon, and shall forfeit and ſuffer as in caſe of high Treaſon.</p>
+                           <p>Provided, that this Act, or any thing herein contained, shall not be conſtrued or taken to make void or impeach one Act made this Par<g ref="char:EOLhyphen"/>liament the twelfth of <hi>July, 1659.</hi> Entituled, <hi>An Act of Indempnity and Free Pardon;</hi> nor any Article or Clauſe therein contained,</p>
+                           <p>Provided alſo, That nothing in this Act extend to interrupt the
+<pb n="12" facs="tcp:46733:8"/>poſſeſsion of any Soldier or adventurer, or any Purchaſer, their Heirs or Aſsigns, in poſſeſsion of any Lands or Hereditaments in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> or of any Purchaſer of any Lands or Hereditaments within this Commonwealth, unleſſe where this Parliament hath taken, or shall take further or other order therein,</p>
+                           <closer>
+                              <signed>Tho. St. Nicholas, Clerk of the Parliament.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="day">
+               <head>VVedneſday <hi>12.</hi> October.</head>
+               <p>The Houſe reaſſum'd the debate upon the Propoſals, the ſixth being read, and alſo a Letter dated at White-Hall <hi>October</hi> the 5th. 1659. ſigned by divers Officers of the Army, directed for Collonel <hi>John Okey,</hi> and a paper in print Entituled, <hi>The humble Repreſentation &amp; Petition of the Officers of the Army to the Parliament of the Common<g ref="char:EOLhyphen"/>wealth of England</hi> preſented to them <hi>October</hi> the 5th. by Major gene<g ref="char:EOLhyphen"/>rall <hi>Disbrow</hi> accompanied with the field Officers of the Army, and ſubſcribed by two hundred and thirtie Commiſſion-officers in and about <hi>London,</hi> together with the Parliaments anſwer thereunto:</p>
+               <p>Reſolved, that the ſeverall Commiſſions of theſe ſeverall perſons, Collonel <hi>John Lambert,</hi> Collonel <hi>John Desbrow,</hi> Collonel <hi>James Ber<g ref="char:EOLhyphen"/>ry,</hi> Collonel <hi>Thomas Kelſey,</hi> Collonel <hi>Richard Aſhfield,</hi> Coll. <hi>Ralph Cobbet,</hi> Collonel <hi>VVilliam Packer,</hi> Collonel <hi>Robert Barrow,</hi> and Major <hi>Richard Creed;</hi> who have ſubſcribed the ſaid Letter, ſhall be, and are hereby made voyd and null, and they and every of them, be, and are hereby diſcharged from all <hi>Military</hi> imployment:</p>
+               <p>Reſolved, that the Army ſhall be governed by Commiſſioners:</p>
+               <p>Reſolved that the number of Commiſſioners be ſeven:</p>
+               <p>Whereupon a Bill was drawn up, impowering ſeveral perſons therein named Commiſſioners for the government of the Army, which after thrice reading, upon the queſtion paſſed as followeth:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="act">
+                           <head>An Act appointing Commiſſioners for the Government of the Army.</head>
+                           <p>BE it Enacted by this preſent Parliament and the Authority thereof, and it is hereby Enacted, That one Act made this Parliament, En<g ref="char:EOLhyphen"/>tituled,
+<pb n="13" facs="tcp:46733:8"/>
+                              <hi>An Act connſtituting Charles Fleetwood <abbr>Eſq</abbr> Lieutenant Ge<g ref="char:EOLhyphen"/>neral and Commander in chief of the Forces, raiſed and to be raiſed by Authority of Parliament within England and Scotland,</hi> and a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>l Powers and Authorities thereby given, be and are hereby repealed and made void, and that the Army and forces in <hi>England</hi> and <hi>Scotland</hi> of this Common-wealth, shall for the Future be governed by Commiſ<g ref="char:EOLhyphen"/>ſioners in the place and ſtead of a Lieutenant General, and that Lieu<g ref="char:EOLhyphen"/>tenant Generall <hi>Charles Fleetwood,</hi> Lieutenant Gen. <hi>Edmond Ludlow,</hi> Gen. <hi>Georg Monk,</hi> Sir <hi>Arth. Heſilrigg Col. Herbert Morley, Col. Valen<g ref="char:EOLhyphen"/>tine Walton,</hi> Colonel <hi>Robert Overton,</hi> be and are hereby appointed Commiſsioners to execute all and ſingular the Powers and Autho<g ref="char:EOLhyphen"/>rities incident or belonging to the Office of the Lieutenant General of the Army of this Commonwealth in <hi>England</hi> and <hi>Scotland,</hi> in as large and ample manner as in and by the ſaid recited Act was granted &amp; ex<g ref="char:EOLhyphen"/>preſſed, and that they or any three or more of them shall and may exe<g ref="char:EOLhyphen"/>cute the ſaid office and Powers from the <hi>11</hi> day of <hi>October 1659</hi> unto the <hi>12</hi> day of <hi>February 1659.</hi> any Act or Commiſsion whatſoever made or granted to the contrary in any wiſe notwithſtanding. And that all Officers and Soldiers of the Army, and other perſons concern'd are hereby required to yield their obedience to the ſaid Commiſsoners accordingly. And the ſaid Commiſsioners are to obey and obſerve ſuch Orders and Directions, as they or any three or more of them shall from time to time receive from the Parliament or Council of State appointed, or which shall be appointed by Authority of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <div type="part">
+                  <head>After which the Houſe paſſed the following <hi>Reſolves.</hi>
+                  </head>
+                  <p>
+                     <hi>Reſolved.</hi> That it be referred to the Commiſſioners for commanding the Army, to bring in the names of the next ſuperior Officers in every of the Regiments late of Col. <hi>John Lambert,</hi> Col. <hi>John Disbrowe,</hi> Col. <hi>James Berry,</hi> Col. <hi>Tho. Kelſey,</hi> Col. <hi>Rich. Aſhfield,</hi> Col. <hi>Ralph Cobbet,</hi> Col. <hi>William Packer,</hi> Col. <hi>Robert Barrow</hi> and Major <hi>Rich. Creed,</hi> and preſent them to the Parliament to morrow morning.</p>
+                  <p>
+                     <hi>Reſolved</hi> that Col. <hi>Dixwell</hi> be Lieutenant of <hi>Dover</hi> Caſtle, and that his Commiſſion be brought in to morrow morning:</p>
+                  <p>Referred to a Committe to conſider of an anſwer to be given to the 6, 7.8. propoſals of the Officers of the Army, and report it to the Houſe.</p>
+                  <pb n="14" facs="tcp:46733:9"/>
+                  <p>Ordered, that the Commiſſioners for the management of the Army be and are hereby injoyned forthwith to meet and give order that the Forces may be diſpoſed of as may be for the peace of the Common<g ref="char:EOLhyphen"/>wealth, and ſafety of the Parliament.</p>
+                  <p>Thus gentle Reader haſt thou from the firſt Beginning the whole progreſſe of our preſent Distempers without any Obſervations thereupon, leaving all to thy ſerious Conſideration; Beg<g ref="char:EOLhyphen"/>ging that thou alſo wouldſt petition the mercifull Father to put ſome period to the Diſtractions of poor <hi>England.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46733:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
